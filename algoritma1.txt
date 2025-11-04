@@ -1,0 +1,6 @@
+1.Mulai
+2.siapkan gelas a yang berisi teh dan gelas b yang berisi kopi
+3.siapkan gelas c yang kosong
+4.tuangkan teh ke kelas c yang kosong
+5.tuangkan kopi ke gelas a yang kosong
+6. tuangkan teh yang ada di gelas c ke gelas b
