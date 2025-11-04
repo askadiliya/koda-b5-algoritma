@@ -1,0 +1,19 @@
+Menghitung Luas
+1. Mulai 
+2. buat variable pi = 22/7
+3. buat variable r = 7
+4. buat variable luas lingkaran
+5. Hitung dengan rumus pi x r x r
+6. masukan angka 22/7 x 7 x 7
+7. hasil =  154
+8. Selasai
+
+menghitung keliling
+1. Mulai 
+2. buat variable pi = 22/7
+3. buat variable r = 7
+4. buat variable luas lingkaran
+5. Hitung dengan rumus 2 x pi x r
+6. masukan angka 2 x 22/7 x 7
+7. hasil =  44
+8. Selasai
